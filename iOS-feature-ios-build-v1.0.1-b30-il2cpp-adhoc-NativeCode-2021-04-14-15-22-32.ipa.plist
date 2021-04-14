@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://git.iobj.net:8088/files/feature-ios-build/iOS/iOS-feature-ios-build-v1.0.1-b30-il2cpp-adhoc-NativeCode-2021-04-14-15-22-32.ipa</string>
+					<string>http://192.168.10.199:8088/files/feature-ios-build/iOS/iOS-feature-ios-build-v1.0.1-b30-il2cpp-adhoc-NativeCode-2021-04-14-15-22-32.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
